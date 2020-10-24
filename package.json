@@ -1,0 +1,25 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "about Jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellietms/JestTest.git"
+  },
+  "keywords": [
+    "JestTest"
+  ],
+  "author": "Ellie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellietms/JestTest/issues"
+  },
+  "homepage": "https://github.com/ellietms/JestTest#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
